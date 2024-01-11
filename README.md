@@ -11,11 +11,11 @@ guide.xml will be refreshed per hour .
 ### Channel list:
    * **Github**
       ```
-      https://raw.githubusercontent.com/lnandy/Chinese-IPTV/master/TV-IPV4.m3u
+      https://raw.githubusercontent.com/lnandy/IPTV/master/TV-IPV4.m3u
       ```
    * **jsDelivr CDN** (optimized for mainland users) 
       ```
-      https://cdn.jsdelivr.net/gh/lnandy/Chinese-IPTV@master/TV-IPV4.m3u
+      https://cdn.jsdelivr.net/gh/lnandy/IPTV@master/TV-IPV4.m3u
       ```
 ### Guide file (EPG):
    * **Github**
